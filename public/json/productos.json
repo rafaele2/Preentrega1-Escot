@@ -1,0 +1,82 @@
+[
+    {
+    "id": 1, 
+    "nombre": "pc escritorio", 
+    "precio": 100000, 
+    "stock": 1, 
+    "img": "trabajo1.jpg", 
+    "cantidad": 0
+    },
+
+    {
+    "id": 2,
+    "nombre": "pc escritorio",
+    "precio": 95000, 
+    "stock": 2,
+    "img": "trabajo1.jpg", 
+    "cantidad": 0
+    },
+
+    {
+    "id": 3,
+    "nombre": "pc escritorio",
+    "precio": 110000, 
+    "stock": 3,
+    "img": "trabajo1.jpg",
+    "cantidad": 0
+    },
+
+    {
+    "id": 4,
+    "nombre": "pc oficina", 
+    "precio": 150000, 
+    "stock": 10, 
+    "img": "trabajo2.jpg"
+    ,"cantidad": 0
+    },
+
+    {
+    "id": 5,
+    "nombre": "pc oficina", 
+    "precio": 145000, 
+    "stock": 4, 
+    "img": "trabajo2.jpg",
+    "cantidad": 0
+    },
+
+    {
+    "id": 6,
+    "nombre": "pc oficina",
+    "precio": 125000, 
+    "stock": 2,
+    "img": "trabajo2.jpg",
+    "cantidad": 0
+    },
+
+    {
+    "id": 7,
+    "nombre": "pc gamer", 
+    "precio": 200000, 
+    "stock": 5, 
+    "img": "trabajo4.jpg",
+    "cantidad": 0
+    },
+
+    {
+    "id": 8,
+    "nombre": "pc gamer",
+    "precio": 250000, 
+    "stock": 2, 
+    "img": "trabajo4.jpg",
+    "cantidad": 0
+    },
+
+    {
+    "id": 9,
+    "nombre": "pc gamer", 
+    "precio": 300000,
+    "stock": 1, 
+    "img": "trabajo4.jpg",
+    "cantidad": 0
+    }
+]
